@@ -2,6 +2,8 @@
 
 A Python pipeline for landslide susceptibility mapping using Digital Terrain Model (DTM) data. The analysis is based on slope angle classification derived from a **Delaunay TIN (Triangulated Irregular Network)** built from DTM point data.
 
+This project was developed as an extra project of the course *Construction of Selected Algorithms for 2D and 3D Point Data Processing* at Wrocław University of Science and Technology.
+
 ## Methodology
 
 1. **DTM loading** — reads ASC (ASCII Grid) files from Polish Geoportal (GUGiK)
