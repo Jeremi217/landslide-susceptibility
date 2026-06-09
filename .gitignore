@@ -3,3 +3,8 @@ data/
 output/
 venv/
 __pycache__/
+.idea/
+data/
+output/
+venv/
+__pycache__/
